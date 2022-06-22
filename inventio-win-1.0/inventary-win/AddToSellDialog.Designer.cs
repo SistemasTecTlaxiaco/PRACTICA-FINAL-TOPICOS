@@ -73,6 +73,7 @@
             this.ix.ReadOnly = true;
             this.ix.Size = new System.Drawing.Size(194, 20);
             this.ix.TabIndex = 3;
+            this.ix.TextChanged += new System.EventHandler(this.ix_TextChanged);
             // 
             // pname
             // 
@@ -89,6 +90,7 @@
             this.price_in.ReadOnly = true;
             this.price_in.Size = new System.Drawing.Size(194, 20);
             this.price_in.TabIndex = 5;
+            this.price_in.TextChanged += new System.EventHandler(this.price_in_TextChanged);
             // 
             // q
             // 
@@ -97,6 +99,7 @@
             this.q.Size = new System.Drawing.Size(194, 20);
             this.q.TabIndex = 6;
             this.q.Text = "1";
+            this.q.TextChanged += new System.EventHandler(this.q_TextChanged);
             // 
             // label4
             // 

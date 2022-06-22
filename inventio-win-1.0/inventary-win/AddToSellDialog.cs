@@ -31,5 +31,29 @@ namespace inventio_win
             SellObj.sell.Add(so);
             Dispose();
         }
+
+        private void price_in_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(price_in.Text, "  ^ [0-9]"))
+            {
+                price_in.Text = "";
+            }
+        }
+
+        private void ix_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(ix.Text, "  ^ [0-9]"))
+            {
+                ix.Text = "";
+            }
+        }
+
+        private void q_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(q.Text, "  ^ [0-9]"))
+            {
+                q.Text = "";
+            }
+        }
     }
 }
