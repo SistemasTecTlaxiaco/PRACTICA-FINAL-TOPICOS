@@ -93,6 +93,7 @@
             this.Name = "Input";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "agregar";
+            this.Load += new System.EventHandler(this.Input_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

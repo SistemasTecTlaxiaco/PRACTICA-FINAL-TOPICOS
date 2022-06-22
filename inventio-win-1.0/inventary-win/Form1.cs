@@ -170,5 +170,10 @@ namespace inventio_win
         {
 
         }
+
+        private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

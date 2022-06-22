@@ -45,11 +45,11 @@ namespace inventio_win
                 Connection c = new Connection();
                 c.execute("insert into operation(product_id,q,operation_type_id,created_at) value (" + ids[product.SelectedIndex] + ","+q.Text+",1,NOW())");
                 q.Text = "";
-                MessageBox.Show("Se dio de alta en inventario !exitosa!");
+                MessageBox.Show("De alta en inventario !exitosa!");
             
             }
             else {
-                MessageBox.Show("Los Campos Requerido: PRODUCTO, CANTIDAD");
+                MessageBox.Show("El Campos Requerido: PRODUCTO, CANTIDAD");
             }
         }
 
@@ -59,6 +59,11 @@ namespace inventio_win
             {
                 q.Text = "";
             }
+        }
+
+        private void Input_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
