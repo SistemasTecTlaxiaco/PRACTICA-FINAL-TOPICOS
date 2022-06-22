@@ -49,7 +49,7 @@ namespace inventio_win
             
             }
             else {
-                MessageBox.Show("Los Campos Requeridos son: Producto, Cantidad");
+                MessageBox.Show("Los Campos Requerido: PRODUCTO, CANTIDAD");
             }
         }
 

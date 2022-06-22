@@ -8,9 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
-/// Inventio Win
-/// @author evilnapsis
-/// Copyright 2015
+
 
 namespace inventio_win
 {
