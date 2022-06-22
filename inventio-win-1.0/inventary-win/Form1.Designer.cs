@@ -89,14 +89,14 @@
             // clientesToolStripMenuItem
             // 
             this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
-            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
+            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.clientesToolStripMenuItem.Text = "Clientes ...";
             this.clientesToolStripMenuItem.Click += new System.EventHandler(this.clientesToolStripMenuItem_Click);
             // 
             // proveedoresToolStripMenuItem
             // 
             this.proveedoresToolStripMenuItem.Name = "proveedoresToolStripMenuItem";
-            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
+            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.proveedoresToolStripMenuItem.Text = "Proveedores ...";
             this.proveedoresToolStripMenuItem.Click += new System.EventHandler(this.proveedoresToolStripMenuItem_Click);
             // 
@@ -112,14 +112,14 @@
             // historialToolStripMenuItem
             // 
             this.historialToolStripMenuItem.Name = "historialToolStripMenuItem";
-            this.historialToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
+            this.historialToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.historialToolStripMenuItem.Text = "Ventas ...";
             this.historialToolStripMenuItem.Click += new System.EventHandler(this.historialToolStripMenuItem_Click);
             // 
             // abastecimientosToolStripMenuItem
             // 
             this.abastecimientosToolStripMenuItem.Name = "abastecimientosToolStripMenuItem";
-            this.abastecimientosToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
+            this.abastecimientosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.abastecimientosToolStripMenuItem.Text = "Abastecimientos ...";
             this.abastecimientosToolStripMenuItem.Click += new System.EventHandler(this.abastecimientosToolStripMenuItem_Click);
             // 
@@ -135,14 +135,14 @@
             // cargarToolStripMenuItem
             // 
             this.cargarToolStripMenuItem.Name = "cargarToolStripMenuItem";
-            this.cargarToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.cargarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.cargarToolStripMenuItem.Text = "Mostrar ...";
             this.cargarToolStripMenuItem.Click += new System.EventHandler(this.cargarToolStripMenuItem_Click);
             // 
             // agregarToolStripMenuItem
             // 
             this.agregarToolStripMenuItem.Name = "agregarToolStripMenuItem";
-            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.agregarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.agregarToolStripMenuItem.Text = "Agregar ...";
             this.agregarToolStripMenuItem.Click += new System.EventHandler(this.agregarToolStripMenuItem_Click);
             // 
@@ -158,14 +158,14 @@
             // visualizarToolStripMenuItem
             // 
             this.visualizarToolStripMenuItem.Name = "visualizarToolStripMenuItem";
-            this.visualizarToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.visualizarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.visualizarToolStripMenuItem.Text = "Visualizar ...";
             this.visualizarToolStripMenuItem.Click += new System.EventHandler(this.visualizarToolStripMenuItem_Click);
             // 
             // altaToolStripMenuItem
             // 
             this.altaToolStripMenuItem.Name = "altaToolStripMenuItem";
-            this.altaToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.altaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.altaToolStripMenuItem.Text = "Abastecer ...";
             this.altaToolStripMenuItem.Click += new System.EventHandler(this.altaToolStripMenuItem_Click);
             // 
@@ -263,6 +263,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Inventario";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.data)).EndInit();

@@ -28,10 +28,10 @@ namespace inventio_win
                 InitializeComponent();
                 Splash s = new Splash();
                 data.Columns.Add("id", "Id");
-                data.Columns.Add("nombre", "Nombre");
-                data.Columns.Add("unidad", "Unidad");
+                data.Columns.Add("nombre", "El Nombre");
+                data.Columns.Add("unidad", "La Unidad");
                 data.Columns.Add("disponible", "Disponible");
-                data.Columns.Add("precio", "Precio");
+                data.Columns.Add("precio", "El Precio");
                 data.Columns[0].Width = 50;
                 data.Columns[1].Width = 400;
                 data.Columns[2].Width = 100;
@@ -166,6 +166,11 @@ namespace inventio_win
         {
             newProduct i = new newProduct();
             ;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
