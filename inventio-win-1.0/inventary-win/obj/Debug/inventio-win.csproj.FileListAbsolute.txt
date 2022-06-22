@@ -1,0 +1,60 @@
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\bin\Debug\inventary-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\bin\Debug\inventary-win.pdb
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio-win.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio-win.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary-win.exe
+c:\users\agustin\documents\visual studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventary-win.pdb
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.About.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Directory.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Form1.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.History.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Input.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Inventory.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Login.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.newPerson.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.newProduct.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.OperationWindow.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.ProductsWindow.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Properties.Resources.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.AddToSellDialog.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Re.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.SellDialog.resources
+C:\Users\Agustin\Documents\Visual Studio 2013\Projects\inventary-win\inventary-win\obj\Debug\inventio_win.Splash.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio-win.csproj.AssemblyReference.cache
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio-win.csproj.SuggestedBindingRedirects.cache
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.About.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Form1.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.History.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Input.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Login.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.newPerson.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.newProduct.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.OperationWindow.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.ProductsWindow.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Properties.Resources.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.AddToSellDialog.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Re.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.SellDialog.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Splash.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio-win.csproj.GenerateResource.cache
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio-win.csproj.CoreCompileInputs.cache
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventary-win.exe
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventary-win.pdb
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventary-win.exe.config
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\inventary-win.exe.config
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\inventary-win.exe
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\inventary-win.pdb
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\MySql.Data.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\Google.Protobuf.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\ZstdNet.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\System.Memory.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\System.Buffers.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\bin\Debug\MySql.Data.xml
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio-win.csproj.CopyComplete
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Inventario.resources
+C:\Users\germa\Downloads\inventio-win-1.0\inventio-win-1.0\inventary-win\obj\Debug\inventio_win.Directorio.resources
