@@ -77,6 +77,7 @@
             this.q.Name = "q";
             this.q.Size = new System.Drawing.Size(252, 20);
             this.q.TabIndex = 4;
+            this.q.TextChanged += new System.EventHandler(this.q_TextChanged);
             // 
             // Input
             // 

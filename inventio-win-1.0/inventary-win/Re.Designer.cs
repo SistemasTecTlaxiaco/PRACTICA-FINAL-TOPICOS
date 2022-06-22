@@ -83,6 +83,7 @@
             this.q.Name = "q";
             this.q.Size = new System.Drawing.Size(100, 20);
             this.q.TabIndex = 3;
+            this.q.TextChanged += new System.EventHandler(this.q_TextChanged);
             // 
             // label2
             // 

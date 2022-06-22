@@ -40,5 +40,29 @@ namespace inventio_win
         {
             Dispose();
         }
+
+        private void unit_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(unit.Text, "  ^ [0-9]"))
+            {
+                unit.Text = "";
+            }
+        }
+
+        private void price_out_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(price_out.Text, "  ^ [0-9]"))
+            {
+                price_out.Text = "";
+            }
+        }
+
+        private void price_in_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(price_in.Text, "  ^ [0-9]"))
+            {
+                price_in.Text = "";
+            }
+        }
     }
 }

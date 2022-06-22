@@ -30,5 +30,13 @@ namespace inventio_win
 
             }
         }
+
+        private void phone_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(phone.Text, "  ^ [0-9]"))
+            {
+                phone.Text = "";
+            }
+        }
     }
 }

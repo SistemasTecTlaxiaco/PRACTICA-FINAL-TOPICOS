@@ -131,6 +131,7 @@
             this.phone.Name = "phone";
             this.phone.Size = new System.Drawing.Size(222, 20);
             this.phone.TabIndex = 23;
+            this.phone.TextChanged += new System.EventHandler(this.phone_TextChanged);
             // 
             // label5
             // 

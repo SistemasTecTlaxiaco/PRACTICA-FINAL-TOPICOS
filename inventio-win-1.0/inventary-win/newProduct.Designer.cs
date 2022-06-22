@@ -89,6 +89,7 @@
             this.price_in.Name = "price_in";
             this.price_in.Size = new System.Drawing.Size(222, 20);
             this.price_in.TabIndex = 6;
+            this.price_in.TextChanged += new System.EventHandler(this.price_in_TextChanged);
             // 
             // price_out
             // 
@@ -96,6 +97,7 @@
             this.price_out.Name = "price_out";
             this.price_out.Size = new System.Drawing.Size(222, 20);
             this.price_out.TabIndex = 7;
+            this.price_out.TextChanged += new System.EventHandler(this.price_out_TextChanged);
             // 
             // unit
             // 
@@ -103,6 +105,7 @@
             this.unit.Name = "unit";
             this.unit.Size = new System.Drawing.Size(222, 20);
             this.unit.TabIndex = 8;
+            this.unit.TextChanged += new System.EventHandler(this.unit_TextChanged);
             // 
             // button1
             // 

@@ -84,5 +84,13 @@ namespace inventio_win
 //            Dispose();
 
         }
+
+        private void q_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(q.Text, "  ^ [0-9]"))
+            {
+                q.Text = "";
+            }
+        }
     }
 }

@@ -52,5 +52,13 @@ namespace inventio_win
                 MessageBox.Show("Campos Requeridos: Producto, Cantidad");
             }
         }
+
+        private void q_TextChanged(object sender, EventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(q.Text, "  ^ [0-9]"))
+            {
+                q.Text = "";
+            }
+        }
     }
 }
